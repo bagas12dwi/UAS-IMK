@@ -11,7 +11,7 @@ h1{
     border: 1px solid rgb(13, 155, 202);
 }
 .bg-img{
-    background: url('/img/img-001.jpg');
+    background: url('../img/img-001.jpg');
     height: 100vh;
     background-size: cover;
     background-position: center;
